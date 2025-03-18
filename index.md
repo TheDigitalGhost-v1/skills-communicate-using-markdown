@@ -6,8 +6,8 @@ I added a title ig
 ``` javascript
 var myVar = "Hello, world!";
 ```
-[ ] Unfinished Task
-[x] Finished Task
+- [ ] Unfinished Task
+- [x] Finished Task
 
 
 
